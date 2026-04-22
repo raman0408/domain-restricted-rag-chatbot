@@ -1,6 +1,7 @@
 # Maven build
 target/
 
+
 # Eclipse IDE files
 *.classpath
 *.project
